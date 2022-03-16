@@ -31,6 +31,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@arcgis/core/assets/esri/css/main.css",
               "src/styles.scss"
             ],
             "scripts": []
