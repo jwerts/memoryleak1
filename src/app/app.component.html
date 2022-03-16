@@ -1,1 +1,6 @@
+
+<button (click)="showLeak = !showLeak">Toggle</button>
+<ng-container *ngIf="showLeak">
+  <leak></leak>
+</ng-container>
 <esri-map></esri-map>
